@@ -1,0 +1,3 @@
+Tym razem dowiedziałem się podczas projektu o tym czym jest whitespace. Lepiej korzystam z tailwindcss. Poznaję lepsze layout'y stron. Lepiej rozumiem jak ma wyglądać kompozycja.
+
+Nad projektem pracowało mi się fajnie, jednak czasami mnie nużyło.
